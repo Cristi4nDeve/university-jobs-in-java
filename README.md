@@ -1,1 +1,16 @@
 # university-jobs-in-java
+# JavaProjects
+# JavaDeveloper
+# UniversityJava
+# ProgrammingTasks
+# JavaSE
+# JavaFXProjects
+# AlgorithmsInJava
+# DataStructuresJava
+# SoftwareDevelopment
+# OpenSourceJava
+# JavaCoding
+# JavaProgramming
+# JavaClassProjects
+# JavaCodeExamples
+# StudentJavaProjects
